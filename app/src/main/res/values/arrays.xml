@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="options">
+        <item> Select from galary</item>
+        <item>  Take a Picture</item>
+        <item>   Remove Picture</item>
+    </string-array>
+
+
+    <string-array name="optionID">
+        <item> Select_picture</item>
+        <item>  Take_ picture</item>
+        <item>   Remove_picture</item>
+    </string-array>
+
+</resources>
